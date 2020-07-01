@@ -1,0 +1,185 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    
+}
+
+#font-size {
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 150px;
+}
+
+p {
+    color: dimgray;
+}
+
+.bold-text {
+    color: #EC4C7A;
+    
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.header-section {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    
+}
+
+section {
+    height: 600px;
+    padding-bottom: 100px;
+
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient( 18deg, #fa5e5e, #EC4C7A );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.biography {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}
+
+.work-images {
+    width: 28%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px dimgray;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+.work-images img {
+    width: 100%;
+}
+
+.work-section-heading {
+    text-align: center;
+    margin-bottom: 70px;
+   
+}
+
+.letest-work {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-heading {
+    text-align: center;
+
+}
+
+#client-heading {
+    text-align: center;
+    font-size: 40px;
+}
+
+.client-area {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mail-to {
+    text-align: center;
+    margin-top: 50px;
+    background-image: linear-gradient( 18deg, #fa5e5e, #EC4C7A );
+    padding: 30px 30px 50px 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    color: white;
+}
+
+#msg {
+    color: white;
+    font-weight: bold;
+}
+
+.contact-info {
+    height: 200px;
+}
+
+#social-heading {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+
+.social-area {
+    width: 15%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 14%;
+    padding-bottom: 100px;
+    
+    
+}
+
+
+.footer-area {
+    
+    text-align: center;
+    color: dimgray;
+    height: 100px;
+    
+}
+
+.client-headign {
+    text-align: center;
+}
+
+.client-comment {
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10px;
+    height: 80%;
+}
+
+#client-name-01 {
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+
+#client-name-02 {
+    text-align: center;
+}
+
+.designation {
+    text-align: center;
+}
